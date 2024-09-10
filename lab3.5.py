@@ -1,4 +1,4 @@
-s = input("Enter a string: ")
+s = input("Enter a string : ")
 flag = 0
 for char in s:
     if not char.isalnum(): 
