@@ -1,4 +1,4 @@
-string = input("Enter a string: ")
+string = input("Enter a string : ")
 target = input("Enter the character to count: ")
 count = 0
 
